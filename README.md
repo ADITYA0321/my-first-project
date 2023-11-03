@@ -1,4 +1,4 @@
 # my-first-project
-<!doctype html>
+<html>
 <p> first </p>
 </html>
